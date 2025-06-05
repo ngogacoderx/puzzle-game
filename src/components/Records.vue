@@ -37,9 +37,7 @@ export default {
 
     }
 }
-
 </script>
-
 <style scoped>
 button.update-button {
     margin-bottom: 20px;

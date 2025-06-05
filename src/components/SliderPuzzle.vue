@@ -172,7 +172,7 @@ export default {
 <style scoped>
 .row {
   display: flex;
-  max-width: 70vw;
+  max-width: 40vw;
   flex-wrap: wrap;
   margin: auto;
   margin-bottom: 60px;
